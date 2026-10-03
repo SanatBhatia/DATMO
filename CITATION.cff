@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use the DATMO research materials, please cite the associated manuscript once publication metadata is available."
+title: "Deployment-Aware Two-Phase Multi-Objective Transformer Optimization (DATMO) Framework"
+type: article
+status: unpublished
+authors:
+  - family-names: Bhatia
+    given-names: Sanat
+  - family-names: Gangwar
+    given-names: Amit K.
+  - family-names: Singh
+    given-names: Kriti
+  - family-names: Bhatia
+    given-names: Richa
+abstract: "A deployment-aware two-phase multi-objective framework for optimizing BERT-style Transformer architectures across predictive performance, inference latency, peak GPU memory, and computational complexity."
